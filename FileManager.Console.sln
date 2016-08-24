@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManager.Console", "Source\FileManager.Console.csproj", "{A75D0DFD-B390-45FC-9024-BD4A37F9D8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{0B13C12F-D258-465E-8863-BFEA8CAF9620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75D0DFD-B390-45FC-9024-BD4A37F9D8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75D0DFD-B390-45FC-9024-BD4A37F9D8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75D0DFD-B390-45FC-9024-BD4A37F9D8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75D0DFD-B390-45FC-9024-BD4A37F9D8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B13C12F-D258-465E-8863-BFEA8CAF9620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B13C12F-D258-465E-8863-BFEA8CAF9620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B13C12F-D258-465E-8863-BFEA8CAF9620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B13C12F-D258-465E-8863-BFEA8CAF9620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://cangrihack-w10:8080/tfs/ada%20framework
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Source\\FileManager.Console.csproj
+		SccProjectName1 = Source
+		SccLocalPath1 = Source
+		SccProjectUniqueName2 = UnitTestProject1\\UnitTestProject1.csproj
+		SccProjectName2 = UnitTestProject1
+		SccLocalPath2 = UnitTestProject1
+	EndGlobalSection
+EndGlobal
